@@ -5,6 +5,10 @@ Testni repozitorij za UVP 2019
 Še nekaj bom dodal.
 
   01234
-43210
+4321012
 
-Kečap
+Alen was here!
+
+riz z jajci
+
+kečap
