@@ -8,3 +8,5 @@ Testni repozitorij za UVP 2019
 4321012
 
 Alen was here!
+
+riz z jajci
