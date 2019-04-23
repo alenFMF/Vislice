@@ -11,7 +11,11 @@ Testni repozitorij za UVP 2019
 riz z jajci
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 __jet's fuel can't melt steel beams__
+=======
+heehe
+>>>>>>> 3ec0776d4dd2092794e8bfe41363743b0e77a32e
 =======
 jet's fuel can't melt steel beams
 
