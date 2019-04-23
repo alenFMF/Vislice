@@ -1,5 +1,5 @@
 # Vislice
-Testni repozitorij za UVP 2019
+Testni repozitorij za UVP 2619
 
 Živjo in adijo!
 Še nekaj bom dodal.
@@ -12,14 +12,19 @@ riz z jajci
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 __jet's fuel can't melt steel beams__
 =======
 heehe
 >>>>>>> 3ec0776d4dd2092794e8bfe41363743b0e77a32e
 =======
+=======
+
+heehe
+
+>>>>>>> e8dbe79454916b3133215439a3558f9539dc9314
 jet's fuel can't melt steel beams
 
 Alen was here!
 
 Kečap
->>>>>>> 2c7bc780ec9fb9fa466edc2ebef6b8a1ebc35f36
